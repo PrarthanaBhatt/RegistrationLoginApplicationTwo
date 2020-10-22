@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegistrationLogin</string>
+    <string name="student_information">Student Information</string>
+</resources>
